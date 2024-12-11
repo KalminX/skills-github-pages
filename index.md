@@ -2,4 +2,4 @@
 title: Welcome to Kalmin's blog
 ---
 
-### The story of my lifr
+### The story of my life
